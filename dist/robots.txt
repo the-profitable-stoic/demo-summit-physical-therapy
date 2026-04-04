@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-summit-physical-therapy.dream-surge.com/sitemap-index.xml
